@@ -1,0 +1,15 @@
+1,Mihai,Scoala Gimnaziala “Horea”
+2,Andrei,Scoala Gimnaziala “Horea”
+3,Maria,Scoala Gimnaziala “Horea”
+4,Mariana,Scoala Gimnaziala “Horea”
+5,Maricela,Scoala Gimnaziala “Horea”
+6,Mama,Scoala Gimnaziala “Horea”
+7,Mumu,Scoala Gimnaziala “Horea”
+8,Mimi,Scoala Gimnaziala “Horea”
+9,George,Scoala Gimnaziala “Horea”
+10,Georgian,Scoala Gimnaziala “Horea”
+11,Georgiana,Scoala Gimnaziala “Horea”
+12,Floricela,Scoala Gimnaziala “Horea”
+13,Florian,Scoala Gimnaziala “Horea”
+14,Sebastian,Scoala Gimnaziala “Horea”
+15,Sebastiana,Scoala Gimnaziala “Horea”

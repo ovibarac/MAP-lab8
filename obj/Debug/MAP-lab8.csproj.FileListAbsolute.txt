@@ -1,0 +1,6 @@
+/home/ovi/work/map/MAP-lab8/MAP-lab8/bin/Debug/MAP_lab8.exe
+/home/ovi/work/map/MAP-lab8/MAP-lab8/bin/Debug/MAP_lab8.pdb
+/home/ovi/work/map/MAP-lab8/MAP-lab8/obj/Debug/MAP-lab8.csproj.AssemblyReference.cache
+/home/ovi/work/map/MAP-lab8/MAP-lab8/obj/Debug/MAP-lab8.csproj.CoreCompileInputs.cache
+/home/ovi/work/map/MAP-lab8/MAP-lab8/obj/Debug/MAP_lab8.exe
+/home/ovi/work/map/MAP-lab8/MAP-lab8/obj/Debug/MAP_lab8.pdb
